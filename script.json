@@ -1,8 +1,10 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Esther, a Product Marketer from San Francisco.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
-    "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
+    "Who's Shawn Rudolph?": "Well, he's a great guy. Believe me. He's creative. That's what people are saying. Very creative.",
+    "Why should I continue to his portfolio?": "Well, look here. If you listen to him, he's honest. He's got something to say, you know? It's all tremendous, don't just take it from me. Check out his portfolio. I'm not wrong.", 
+    "Should I hire him?": "He's great, okay? If you're looking, I mean really looking, he's the best. If not the best, he's getting there. Everyone agrees he's gonna be tremendous.",
+    "Is he any good?": "You see good, and you just point and know, that's good. Believe me!",
+    "How do you know him?": "It's well. It's complicated. Likes to favorite my tweets. Free PR.",
+    "What can you tell me about the 2016 election?": "No that's not what I'm talking about. Right now, I mean, it's all about Shawn. Check out his portfolio. It's just tremendous.", 
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back."
+    "DISCONNECT": "I'm back. I'm here to talk to the people."
 }
